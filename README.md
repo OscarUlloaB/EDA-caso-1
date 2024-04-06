@@ -1,10 +1,12 @@
 # EDA-caso-1
-# **Proyecto BD Softtronics Solutions S.A**
+# **Proyecto BD empresa local**
 ***Oscar David Ulloa Borja 2180395***
 # Absentismo laboral y liquidacion de empleados
 **Liquidacion de empleados y horas laborales**
+# IMPOSTANTE
+Los nombres, identificaciones y demas datos personales han sido eliminados para la proteccion de los mismos, se utilizanron otras variables para el analisis e identificacion.
 
-Para este proyecto se contacto con la empresa Softtronic Solutions S.A para proponer un analisis exploratorio de datos a uno de sus software para registros de empleados de empresas.
+Para este proyecto se contacto con la empresa ####### para proponer un analisis exploratorio de datos a uno de sus software para registros de empleados de empresas.
 
 La empresa brindo una base de datos comleta en formato SQL en la cual mostraba todo el funcionamiento del software en cuanto a estructura de registro y calculo de liquidaciones para empleados.
 
