@@ -28,9 +28,9 @@ La necesidad expresada fue conocer los dias y horasios donde las personas presen
 2. Tablaprog
 3. tablaliq
 4. tablaemp
-complementario(No son necesarios para el codigo principal
-1.DATOSCSV
-2.proyectoGAD (SQL)
+# complementario(No son necesarios para el codigo principal
+1. DATOSCSV
+2. proyectoGAD (SQL)
 
 # Diccionario de variables
 
