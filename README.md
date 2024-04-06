@@ -24,6 +24,13 @@ En esta primera parte del proyecto se busca realizar una limpieza general de la 
 La necesidad expresada fue conocer los dias y horasios donde las personas presentaban mayor absentismo laboral, tambien en base a ello la representacion de tiempo invertido por los empleados y si se requiere una intervencion o no.
 
 # Archivos necesarios
+1. AnalisisDatosCaso1
+2. Tablaprog
+3. tablaliq
+4. tablaemp
+complementario(No son necesarios para el codigo principal
+1.DATOSCSV
+2.proyectoGAD (SQL)
 
 # Diccionario de variables
 
