@@ -18,6 +18,9 @@ En esta primera parte del proyecto se busca realizar una limpieza general de la 
 3.   Limpieza e imputacion de datos
 4.   Analsis exploratorio de datos
 
+# ¿Que se desea conocer?
+La necesidad expresada fue conocer los dias y horasios donde las personas presentaban mayor absentismo laboral, tambien en base a ello la representacion de tiempo invertido por los empleados y si se requiere una intervencion o no.
+
 # Diccionario de variables
 
 Descripcion: Tipo de turno con fecha de entrada y salida + dia o informacion adicional
@@ -31,3 +34,11 @@ RN: Recargo nocturno
 TempDomLab: Tiempo dominical laborado
 HRET: Horas retardo
 HSANT: Horas salida anticipada
+
+# Conclusiones (Luego del analisis)
+Se puede concluir que existe un patrón notable de ausencias en ciertos días de la semana, específicamente los sábados, viernes y martes sugiriendo posibles factores o razones subyacentes que contribuyen a una menor asistencia en estos días en particular.
+
+Por otro lado, las salidas anticipadas los fines de semana señala la posibilidad de que los empleados estén ansiosos por comenzar su tiempo libre y, por lo tanto, opten por irse antes del horario regular de salida. 
+
+Para finalizar, los retardos para entrar los miércoles deben investigarse mas a fondo ya que no se encuentra una posible relacion o motivo al menos con el contexto dado hasta la realizacion de este analisis.
+
