@@ -6,6 +6,7 @@
 # IMPOSTANTE
 Los nombres, identificaciones y demas datos personales han sido eliminados para la proteccion de los mismos, se utilizanron otras variables para el analisis e identificacion.
 
+# Contexto
 Para este proyecto se contacto con la empresa ####### para proponer un analisis exploratorio de datos a uno de sus software para registros de empleados de empresas.
 
 La empresa brindo una base de datos comleta en formato SQL en la cual mostraba todo el funcionamiento del software en cuanto a estructura de registro y calculo de liquidaciones para empleados.
@@ -14,7 +15,6 @@ En esta primera parte del proyecto se busca realizar una limpieza general de la 
 
 # Planteamiento del proyecto
 
-
 1.   Preparacion de la base de datos en SQL
 2.   Importacion de la base a Python
 3.   Limpieza e imputacion de datos
@@ -22,6 +22,8 @@ En esta primera parte del proyecto se busca realizar una limpieza general de la 
 
 # ¿Que se desea conocer?
 La necesidad expresada fue conocer los dias y horasios donde las personas presentaban mayor absentismo laboral, tambien en base a ello la representacion de tiempo invertido por los empleados y si se requiere una intervencion o no.
+
+# Archivos necesarios
 
 # Diccionario de variables
 
