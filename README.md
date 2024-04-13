@@ -1,9 +1,9 @@
 # EDA-caso-1
 # **Proyecto BD empresa local**
 ***Oscar David Ulloa Borja 2180395***
-# Absentismo laboral y liquidacion de empleados
+# Ausentismo laboral y liquidacion de empleados
 **Liquidacion de empleados y horas laborales**
-# IMPOSTANTE
+# IMPORTANTE
 Los nombres, identificaciones y demas datos personales han sido eliminados para la proteccion de los mismos, se utilizanron otras variables para el analisis e identificacion.
 
 # Contexto
